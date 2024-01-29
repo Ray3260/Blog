@@ -1,3 +1,5 @@
+![image](https://github.com/Ray3260/Blog/assets/41173822/32ac419e-084e-44c8-a7db-331f89354234)
+
 * java集合，容器，主要是由两大接口派生而来，一个是Collection接口，用于存储单一元素， 另一个是Map接口，用于存放键值对。
 * Collections，有List、Set、Queue三个子接口
 * Map，有HashMap、HashTable、SortedMap(接口)
